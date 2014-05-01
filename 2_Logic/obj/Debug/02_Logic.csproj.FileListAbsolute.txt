@@ -1,0 +1,4 @@
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\02_Logic\bin\Debug\Wiki.Logic.dll
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\02_Logic\bin\Debug\Wiki.Logic.pdb
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\02_Logic\obj\Debug\Wiki.Logic.dll
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\02_Logic\obj\Debug\Wiki.Logic.pdb

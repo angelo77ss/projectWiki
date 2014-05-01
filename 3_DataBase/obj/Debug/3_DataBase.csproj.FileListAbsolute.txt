@@ -1,0 +1,42 @@
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\DataBase\bin\Debug\Wiki.DataBase.dll
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\DataBase\bin\Debug\Wiki.DataBase.pdb
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\DataBase\obj\Debug\Wiki.DataBase.dll
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\DataBase\obj\Debug\Wiki.DataBase.pdb
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\DataBase\bin\Debug\Wiki.Common.dll
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\DataBase\bin\Debug\Wiki.Common.pdb
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\DataBase\obj\Debug\3_DataBase.csprojResolveAssemblyReference.cache
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\3_DataBase\bin\Debug\Wiki.DataBase.dll
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\3_DataBase\bin\Debug\Wiki.DataBase.pdb
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\3_DataBase\bin\Debug\Wiki.Common.dll
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\3_DataBase\bin\Debug\Wiki.Common.pdb
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\3_DataBase\obj\Debug\3_DataBase.csprojResolveAssemblyReference.cache
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\3_DataBase\obj\Debug\Wiki.DataBase.dll
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\3_DataBase\obj\Debug\Wiki.DataBase.pdb
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\3_DataBase\bin\Debug\Wiki.DataBase.dll
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\3_DataBase\bin\Debug\Wiki.DataBase.pdb
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\3_DataBase\bin\Debug\Wiki.Common.dll
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\3_DataBase\bin\Debug\Wiki.Common.pdb
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\3_DataBase\obj\Debug\3_DataBase.csprojResolveAssemblyReference.cache
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\3_DataBase\obj\Debug\Wiki.DataBase.dll
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\3_DataBase\obj\Debug\Wiki.DataBase.pdb
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\3_DataBase\obj\Debug\3_DataBase.csprojResolveAssemblyReference.cache
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\3_DataBase\obj\Debug\Wiki.DataBase.pdb
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\3_DataBase\bin\Debug\Wiki.DataBase.dll
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\3_DataBase\bin\Debug\Wiki.DataBase.pdb
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\3_DataBase\bin\Debug\Wiki.Common.dll
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\3_DataBase\bin\Debug\Wiki.Common.pdb
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\3_DataBase\obj\Debug\Wiki.DataBase.dll
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\UY_SEA_WIKI\3_DataBase\bin\Debug\Wiki.DataBase.dll
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\UY_SEA_WIKI\3_DataBase\bin\Debug\Wiki.DataBase.pdb
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\UY_SEA_WIKI\3_DataBase\bin\Debug\Wiki.Common.dll
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\UY_SEA_WIKI\3_DataBase\bin\Debug\Wiki.Common.pdb
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\UY_SEA_WIKI\3_DataBase\obj\Debug\3_DataBase.csprojResolveAssemblyReference.cache
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\UY_SEA_WIKI\3_DataBase\obj\Debug\Wiki.DataBase.dll
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\UY_SEA_WIKI\3_DataBase\obj\Debug\Wiki.DataBase.pdb
+H:\UY_SEA_WIKI\UY_SEA_WIKI\3_DataBase\obj\Debug\3_DataBase.csprojResolveAssemblyReference.cache
+H:\UY_SEA_WIKI\UY_SEA_WIKI\3_DataBase\obj\Debug\Wiki.DataBase.pdb
+H:\UY_SEA_WIKI\UY_SEA_WIKI\3_DataBase\bin\Debug\Wiki.DataBase.dll
+H:\UY_SEA_WIKI\UY_SEA_WIKI\3_DataBase\bin\Debug\Wiki.DataBase.pdb
+H:\UY_SEA_WIKI\UY_SEA_WIKI\3_DataBase\bin\Debug\Wiki.Common.dll
+H:\UY_SEA_WIKI\UY_SEA_WIKI\3_DataBase\bin\Debug\Wiki.Common.pdb
+H:\UY_SEA_WIKI\UY_SEA_WIKI\3_DataBase\obj\Debug\Wiki.DataBase.dll

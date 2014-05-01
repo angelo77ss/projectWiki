@@ -1,0 +1,4 @@
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\bin\Wiki.Web.dll
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\bin\Wiki.Web.pdb
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\obj\Debug\Wiki.Web.dll
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\obj\Debug\Wiki.Web.pdb

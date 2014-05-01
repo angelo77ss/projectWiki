@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_WikiWeb", "1_WikiWeb\1_WikiWeb.csproj", "{C87A5E35-8194-4084-AD06-2257F9A786C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Common", "4_Common\4_Common.csproj", "{5E105D92-AB5F-4E5D-A8E3-EC4A57D6B7E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_DataBase", "3_DataBase\3_DataBase.csproj", "{59E6E500-FC7E-4CF5-BE08-1D11CC44F57B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Logic", "2_Logic\2_Logic.csproj", "{686FFBEF-CE27-4432-AC41-CD9DA29921DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resources", "Resources", "{2E3385C8-E4F3-48D0-ACFB-E9ACAEECE80B}"
+	ProjectSection(SolutionItems) = preProject
+		register_WIKI-FrontEnd.reg = register_WIKI-FrontEnd.reg
+		register_WIKI-Logic.reg = register_WIKI-Logic.reg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C87A5E35-8194-4084-AD06-2257F9A786C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C87A5E35-8194-4084-AD06-2257F9A786C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C87A5E35-8194-4084-AD06-2257F9A786C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C87A5E35-8194-4084-AD06-2257F9A786C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E105D92-AB5F-4E5D-A8E3-EC4A57D6B7E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E105D92-AB5F-4E5D-A8E3-EC4A57D6B7E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E105D92-AB5F-4E5D-A8E3-EC4A57D6B7E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E105D92-AB5F-4E5D-A8E3-EC4A57D6B7E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59E6E500-FC7E-4CF5-BE08-1D11CC44F57B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E6E500-FC7E-4CF5-BE08-1D11CC44F57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E6E500-FC7E-4CF5-BE08-1D11CC44F57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E6E500-FC7E-4CF5-BE08-1D11CC44F57B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{686FFBEF-CE27-4432-AC41-CD9DA29921DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686FFBEF-CE27-4432-AC41-CD9DA29921DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686FFBEF-CE27-4432-AC41-CD9DA29921DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686FFBEF-CE27-4432-AC41-CD9DA29921DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\Common\bin\Debug\Wiki.Common.dll
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\Common\bin\Debug\Wiki.Common.pdb
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\Common\obj\Debug\Wiki.Common.dll
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\Common\obj\Debug\Wiki.Common.pdb

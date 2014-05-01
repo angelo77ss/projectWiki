@@ -1,0 +1,71 @@
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\bin\Wiki.Web.dll
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\bin\Wiki.Web.pdb
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\obj\Debug\Wiki.Web.dll
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\obj\Debug\Wiki.Web.pdb
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\bin\Wiki.Common.dll
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\bin\Wiki.Logic.dll
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\bin\Wiki.Logic.pdb
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\bin\Wiki.Common.pdb
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\obj\Debug\1_WikiWeb.csprojResolveAssemblyReference.cache
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Web.dll
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Web.pdb
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Common.dll
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Logic.dll
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Logic.pdb
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Common.pdb
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\1_WikiWeb\obj\Debug\1_WikiWeb.csprojResolveAssemblyReference.cache
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\1_WikiWeb\obj\Debug\Wiki.Web.dll
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\1_WikiWeb\obj\Debug\Wiki.Web.pdb
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Web.dll
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Web.pdb
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Common.dll
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Logic.dll
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Logic.pdb
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Common.pdb
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\1_WikiWeb\obj\Debug\1_WikiWeb.csprojResolveAssemblyReference.cache
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\1_WikiWeb\obj\Debug\Wiki.Web.dll
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\1_WikiWeb\obj\Debug\Wiki.Web.pdb
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\obj\Debug\1_WikiWeb.csprojResolveAssemblyReference.cache
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\obj\Debug\Wiki.Web.pdb
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Web.dll
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Web.pdb
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Common.dll
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Logic.dll
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Logic.pdb
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Common.pdb
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\obj\Debug\Wiki.Web.dll
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.DataBase.dll
+C:\Users\angelom\Documents\Visual Studio 2010\Projects\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.DataBase.pdb
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Web.dll
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Web.pdb
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Common.dll
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Logic.dll
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.DataBase.dll
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Logic.pdb
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Common.pdb
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.DataBase.pdb
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\obj\Debug\1_WikiWeb.csprojResolveAssemblyReference.cache
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\obj\Debug\Wiki.Web.dll
+C:\Users\PERSONAL\Desktop\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\obj\Debug\Wiki.Web.pdb
+H:\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\obj\Debug\1_WikiWeb.csprojResolveAssemblyReference.cache
+H:\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\obj\Debug\Wiki.Web.pdb
+H:\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Web.dll
+H:\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Web.pdb
+H:\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Common.dll
+H:\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Logic.dll
+H:\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.DataBase.dll
+H:\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Logic.pdb
+H:\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Common.pdb
+H:\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.DataBase.pdb
+H:\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\obj\Debug\Wiki.Web.dll
+F:\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Web.dll
+F:\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Web.pdb
+F:\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Common.dll
+F:\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Logic.dll
+F:\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.DataBase.dll
+F:\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Logic.pdb
+F:\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.Common.pdb
+F:\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\bin\Wiki.DataBase.pdb
+F:\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\obj\Debug\1_WikiWeb.csprojResolveAssemblyReference.cache
+F:\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\obj\Debug\Wiki.Web.dll
+F:\UY_SEA_WIKI\UY_SEA_WIKI\1_WikiWeb\obj\Debug\Wiki.Web.pdb
