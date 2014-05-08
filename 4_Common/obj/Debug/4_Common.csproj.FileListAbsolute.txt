@@ -23,3 +23,13 @@ H:\UY_SEA_WIKI\UY_SEA_WIKI\4_Common\obj\Debug\Wiki.Common.pdb
 H:\UY_SEA_WIKI\UY_SEA_WIKI\4_Common\bin\Debug\Wiki.Common.dll
 H:\UY_SEA_WIKI\UY_SEA_WIKI\4_Common\bin\Debug\Wiki.Common.pdb
 H:\UY_SEA_WIKI\UY_SEA_WIKI\4_Common\obj\Debug\Wiki.Common.dll
+F:\GIT\projectWiki\4_Common\bin\Debug\Wiki.Common.dll
+F:\GIT\projectWiki\4_Common\bin\Debug\Wiki.Common.pdb
+F:\GIT\projectWiki\4_Common\obj\Debug\4_Common.csprojResolveAssemblyReference.cache
+F:\GIT\projectWiki\4_Common\obj\Debug\Wiki.Common.dll
+F:\GIT\projectWiki\4_Common\obj\Debug\Wiki.Common.pdb
+D:\GIT\projectWiki\4_Common\bin\Debug\Wiki.Common.dll
+D:\GIT\projectWiki\4_Common\bin\Debug\Wiki.Common.pdb
+D:\GIT\projectWiki\4_Common\obj\Debug\ResolveAssemblyReference.cache
+D:\GIT\projectWiki\4_Common\obj\Debug\Wiki.Common.dll
+D:\GIT\projectWiki\4_Common\obj\Debug\Wiki.Common.pdb

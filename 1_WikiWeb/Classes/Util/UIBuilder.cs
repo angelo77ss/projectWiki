@@ -12,6 +12,7 @@ namespace Wiki.Web.Classes.Util
 {
     public class UIBuilder
     {
+        public URLParams URLParams { get { return new URLParams(); } }
 
         public string LeftTopicsMenu()
         {
@@ -25,7 +26,7 @@ namespace Wiki.Web.Classes.Util
 
                 foreach (SubTopic subTopicObject in topicObject.SubTopics)
                 {
-                    sb.AppendLine(string.Format("<li><a href='{0}pagesPost/PostForSubTopic.aspx?subTopicId={1}'><i class='fa fa-angle-double-right'></i>{2}</a></li>", this.ApplicationRoot, subTopicObject.SubTopicId, subTopicObject.Name));
+                    sb.AppendLine(string.Format("<li><a href='{0}pagesPost/PostForSubTopic.aspx?subTopicId={1}'><i class='fa fa-angle-double-right'></i>{2}</a></li>", this.ApplicationRoot, URLParams.EncodeParam(subTopicObject.SubTopicId.ToString()), subTopicObject.Name));
                 }
 
                 sb.AppendLine("</ul>");
@@ -43,7 +44,14 @@ namespace Wiki.Web.Classes.Util
             {
                 foreach (Post postObject in postList)
                 {
-                    sb.AppendLine(string.Format(htmlTemplate, postObject.Title, postObject.Title, postObject.Topic.Name, postObject.SubTopic.Name));
+                    sb.AppendLine(string.Format(
+                        htmlTemplate,
+                        postObject.Title,
+                        postObject.ContentPostResume,
+                        postObject.Topic.Name,
+                        postObject.SubTopic.Name,
+                        URLParams.EncodeParam(postObject.PostId.ToString())
+                     ));
                 }
             }
             else
@@ -70,7 +78,7 @@ namespace Wiki.Web.Classes.Util
         public string HtmlBase(string templateName)
         {
             string result = string.Empty;
-            string templatePath = Path.Combine(ConfigurationManager.AppSettings["ProjectWiki.RootDirectory"], "innerHtmlTemplates/", templateName);
+            string templatePath = Path.Combine(ConfigurationManager.AppSettings["ProjectWiki.RootDirectory"], "innerHtmlTemplates", templateName);
 
             //ToDo: Validación de existencia de template y lectura.
             result = File.ReadAllText(templatePath);

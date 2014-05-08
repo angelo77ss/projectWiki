@@ -63,14 +63,11 @@
     <Content Include="innerHtmlTemplates\GetPostBySubTopicId.html" />
     <Content Include="Login.aspx" />
     <Content Include="pagesPost\AddPost.aspx" />
+    <Content Include="pagesPost\EditPost.aspx" />
     <Content Include="pagesPost\PostForSubTopic.aspx" />
     <Content Include="pagesPost\ViewPost.aspx" />
-    <Content Include="Styles\Site.css" />
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
-    <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
-    <Content Include="Scripts\jquery-1.4.1.js" />
-    <Content Include="Scripts\jquery-1.4.1.min.js" />
     <Content Include="template\css\AdminLTE.css" />
     <Content Include="template\css\bootstrap-slider\slider.css" />
     <Content Include="template\css\bootstrap-wysihtml5\bootstrap3-wysihtml5.css" />
@@ -737,7 +734,9 @@
     <Compile Include="Classes\BasePage.cs">
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
+    <Compile Include="Classes\SessionKeys.cs" />
     <Compile Include="Classes\Util\UIBuilder.cs" />
+    <Compile Include="Classes\Util\URLParams.cs" />
     <Compile Include="Classes\WebProfile.cs" />
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
@@ -769,6 +768,13 @@
     </Compile>
     <Compile Include="pagesPost\AddPost.aspx.designer.cs">
       <DependentUpon>AddPost.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pagesPost\EditPost.aspx.cs">
+      <DependentUpon>EditPost.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pagesPost\EditPost.aspx.designer.cs">
+      <DependentUpon>EditPost.aspx</DependentUpon>
     </Compile>
     <Compile Include="pagesPost\PostForSubTopic.aspx.cs">
       <DependentUpon>PostForSubTopic.aspx</DependentUpon>

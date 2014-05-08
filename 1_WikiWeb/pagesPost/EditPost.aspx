@@ -1,5 +1,5 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true"
-    CodeBehind="AddPost.aspx.cs" Inherits="Wiki.Web.pagesPost.AddPost" EnableEventValidation="false"
+    CodeBehind="EditPost.aspx.cs" Inherits="Wiki.Web.pagesPost.EditPost" EnableEventValidation="false"
     ValidateRequest="false" EnableViewState="True" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
@@ -8,7 +8,7 @@
     <aside class="right-side">
         <section class="content-header">
             <h1>
-                Agregar post! <small>Bien ahi!</small>  
+                Editar post! <small>Que paso?</small>
             </h1>
             <ol class="breadcrumb">
                 <li><a href="#"><i class="fa fa-dashboard"></i>Home</a></li>
@@ -42,7 +42,7 @@
                                         <asp:DropDownList CssClass="form-control" runat="server" DataSourceID="odsTopics" ID="cboTopic" DataTextField="Name"
                                             DataValueField="TopicId">
                                         </asp:DropDownList>
-                                        <asp:ObjectDataSource ID="odsTopics" runat="server" SelectMethod="GetTopics" TypeName="Wiki.Web.pagesPost.AddPost" />
+                                        <asp:ObjectDataSource ID="odsTopics" runat="server" SelectMethod="GetTopics" TypeName="Wiki.Web.pagesPost.EditPost" />
                                     </div>
                                     <div class="col-xs-4">
                                         <label>
@@ -56,7 +56,7 @@
                                         <asp:DropDownList CssClass="form-control" runat="server" DataSourceID="odsLevels" ID="cboLevel" DataTextField="Description"
                                             DataValueField="DifficultyLevelId" AutoPostBack="true">
                                         </asp:DropDownList>
-                                        <asp:ObjectDataSource ID="odsLevels" runat="server" SelectMethod="GetLevels" TypeName="Wiki.Web.pagesPost.AddPost" />
+                                        <asp:ObjectDataSource ID="odsLevels" runat="server" SelectMethod="GetLevels" TypeName="Wiki.Web.pagesPost.EditPost" />
                                     </div>
                                 </div>
                             </div>
@@ -68,13 +68,14 @@
                             <div class="form-group">
                                 <div class="row">
                                     <div class="col-xs-12">
-                                     <div class="pull-right">                                        
+                                    <div class="pull-right">                                        
                                         <asp:Button ID="btnSave" runat="server" OnClick="btnSave_Click" OnClientClick="return ValidateForm('form1');" Text="Guardar"
                                             class="btn btn-success" />
                                     </div>
                                     </div>
                                 </div>
                             </div>
+                            <asp:HiddenField runat="server" ID="encryptedKey" />
                             </form>
                         </div>
                     </div>

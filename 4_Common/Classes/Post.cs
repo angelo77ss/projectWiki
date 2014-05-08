@@ -31,29 +31,53 @@ namespace Wiki.Common.Classes
 
         [MappingSettings(false)]
         public string ContentPost { get; set; }
-		
-		[MappingSettings(false)]
+
+        [MappingSettings(false)]
+        public string ContentPostResume
+        {
+            get
+            {
+                string result = string.Empty;
+                if (!string.IsNullOrEmpty(this.ContentPost))
+                {
+                    //ToDo: Quitar partes de html?
+                    result = this.ContentPost;
+                    if (result.Length > 200)
+                    {
+                        result = result.Substring(0, 200);
+                        return result;
+                    }
+                    else
+                    {
+                        return result;
+                    }
+                }
+                return result;
+            }
+        }
+
+        [MappingSettings(false)]
         public bool Active { get; set; }
-		
-		[MappingSettings(false)]
+
+        [MappingSettings(false)]
         public DateTime CreatedDate { get; set; }
-		
-		[MappingSettings(false)]
+
+        [MappingSettings(false)]
         public DateTime EditedDate { get; set; }
-		
-		[MappingSettings(false)]
+
+        [MappingSettings(false)]
         public DateTime DeletedDate { get; set; }
-		
-		#region Resultados para operaciones
-		
-		[MappingSettings(false)]
+
+        #region Resultados para operaciones
+
+        [MappingSettings(false)]
         public bool OperationResult { get; set; }
-		
-		[MappingSettings(false)]
+
+        [MappingSettings(false)]
         public string OperationMessage { get; set; }
 
-		#endregion
-		
+        #endregion
+
         /// <summary>
         /// Constructor vacio
         /// </summary>

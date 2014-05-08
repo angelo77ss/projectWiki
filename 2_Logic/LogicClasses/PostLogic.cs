@@ -12,18 +12,20 @@ namespace Wiki.Logic.LogicClasses
     {
         private PostDataBase postDB = new PostDataBase();
 
-        public bool InsertPost(Post post)
+        public Post InsertPost(Post post)
         {
-            bool result = false;
             try
             {
-                result = postDB.InsertPost(post);
+                post = postDB.InsertPost(post);
+                post.OperationResult = true;
             }
             catch (Exception ex)
             {
                 this.LogError(ex);
+                post.OperationResult = false;
+                post.OperationMessage = "Ocurrió un error realizando la operación.";
             }
-            return result;
+            return post;
         }
 		
 		public Post UpdatePost(Post post, User user)
@@ -32,6 +34,7 @@ namespace Wiki.Logic.LogicClasses
             {
 				if(IsUserOwnerPost(post, user)){
 					post.OperationResult = postDB.UpdatePost(post);
+                    post.OperationResult = true;
 				}else{
 					post.OperationResult = false;
 					post.OperationMessage = "El usuario no es propietario.";

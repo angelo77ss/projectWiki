@@ -16,9 +16,9 @@ namespace Wiki.Web.pagesPost
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            //toDo: Chequear que venga el parametro QueryString["subTopicId"]
+            //ToDo: Chequear que venga el parametro QueryString["subTopicId"]
 
-            int subTopicId = Convert.ToInt32(Request.QueryString["subTopicId"]);
+            int subTopicId = Convert.ToInt32(this.URLParams.DecodeParam(Request.QueryString["subTopicId"]));
             StringBuilder sb = new StringBuilder();
             List<Post> postList = new PostLogic().GetPostBySubTopicId(new SubTopic() { SubTopicId = subTopicId });
 

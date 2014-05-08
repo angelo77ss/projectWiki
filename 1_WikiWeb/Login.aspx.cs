@@ -30,7 +30,7 @@ namespace Wiki.Web
                 if (user.LoginResult)
                 {
                     this.WebProfile.User = user;
-                    Response.Redirect("~/pagesPost/ViewPost.aspx?postId=12", false);
+                    Response.Redirect("~/pagesPost/ViewPost.aspx?postId=" + this.URLParams.EncodeParam("12".ToString()), false);
                 }
                 else
                 {

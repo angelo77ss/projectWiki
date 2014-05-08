@@ -40,3 +40,17 @@ H:\UY_SEA_WIKI\UY_SEA_WIKI\3_DataBase\bin\Debug\Wiki.DataBase.pdb
 H:\UY_SEA_WIKI\UY_SEA_WIKI\3_DataBase\bin\Debug\Wiki.Common.dll
 H:\UY_SEA_WIKI\UY_SEA_WIKI\3_DataBase\bin\Debug\Wiki.Common.pdb
 H:\UY_SEA_WIKI\UY_SEA_WIKI\3_DataBase\obj\Debug\Wiki.DataBase.dll
+F:\GIT\projectWiki\3_DataBase\bin\Debug\Wiki.DataBase.dll
+F:\GIT\projectWiki\3_DataBase\bin\Debug\Wiki.DataBase.pdb
+F:\GIT\projectWiki\3_DataBase\bin\Debug\Wiki.Common.dll
+F:\GIT\projectWiki\3_DataBase\bin\Debug\Wiki.Common.pdb
+F:\GIT\projectWiki\3_DataBase\obj\Debug\3_DataBase.csprojResolveAssemblyReference.cache
+F:\GIT\projectWiki\3_DataBase\obj\Debug\Wiki.DataBase.dll
+F:\GIT\projectWiki\3_DataBase\obj\Debug\Wiki.DataBase.pdb
+D:\GIT\projectWiki\3_DataBase\bin\Debug\Wiki.DataBase.dll
+D:\GIT\projectWiki\3_DataBase\bin\Debug\Wiki.DataBase.pdb
+D:\GIT\projectWiki\3_DataBase\bin\Debug\Wiki.Common.dll
+D:\GIT\projectWiki\3_DataBase\bin\Debug\Wiki.Common.pdb
+D:\GIT\projectWiki\3_DataBase\obj\Debug\ResolveAssemblyReference.cache
+D:\GIT\projectWiki\3_DataBase\obj\Debug\Wiki.DataBase.dll
+D:\GIT\projectWiki\3_DataBase\obj\Debug\Wiki.DataBase.pdb

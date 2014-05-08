@@ -10,7 +10,7 @@ namespace Wiki.DataBase.DataBaseClasses
     public class PostDataBase : BaseDataBase
     {
 
-        public bool InsertPost(Post post)
+        public Post InsertPost(Post post)
         {
             var parameters = new DataAccessParameter[7];
             parameters[0] = new DataAccessParameter("@TopicId", post.Topic.TopicId, typeof(int), null, ParameterDirection.Input);
@@ -21,7 +21,10 @@ namespace Wiki.DataBase.DataBaseClasses
             parameters[5] = new DataAccessParameter("@ContentPost", post.ContentPost, typeof(string), null, ParameterDirection.Input);
             parameters[6] = new DataAccessParameter("@Title", post.Title, typeof(string), null, ParameterDirection.Input);
 
-            return (1 == WikiDBAdapter.ExecuteStoredProcedure("InsertPost", parameters));
+            //Retorno el id del objeto creado y lo asigno al post
+            post.PostId = WikiDBAdapter.ExecuteStoredProcedure("InsertPost", parameters);
+
+            return post;
         }
 		
 		public bool UpdatePost(Post post)
@@ -47,7 +50,7 @@ namespace Wiki.DataBase.DataBaseClasses
             return (1 == WikiDBAdapter.ExecuteStoredProcedure("DeletePost", parameters));
         }
 
-		 public bool IsUserOwnerPost(Post post, User user)
+		public bool IsUserOwnerPost(Post post, User user)
         {
             DataAccessParameter[] parameters = new DataAccessParameter[2];
             parameters[0] = new DataAccessParameter("@PostId", post.PostId, typeof(int), null, ParameterDirection.Input);

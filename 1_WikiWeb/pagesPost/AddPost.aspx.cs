@@ -38,23 +38,26 @@ namespace Wiki.Web.pagesPost
                 if (ValidateImputs())
                 {
                     Post post = new Post();
-                    post.Title = this.txtTitle.Value;
-                    post.Tags = this.txtTags.Value;
-                    post.ContentPost = this.txtContent.Text;
-                    post.DifficultyLevel = new DifficultyLevel(Convert.ToInt32(cboLevel.SelectedValue));
-                    post.Topic = new Topic(Convert.ToInt32(cboTopic.SelectedValue));
-                    //Obtenemos el valor de esta manera ya uqe al cargar por ajax no lo hace de la otra forma. (Combo subTopic)
-                    post.SubTopic = new SubTopic(Convert.ToInt32(Page.Request.Params[cboSubTopics.UniqueID]));
+                    post.Title = this.GetParamString(this.txtTitle.UniqueID);
+                    post.Tags = this.GetParamString(this.txtTags.UniqueID);
+                    post.ContentPost = this.GetParamString(this.txtContent.UniqueID);
+                    post.DifficultyLevel = new DifficultyLevel(this.GetParamInt(this.cboLevel.UniqueID));
+                    post.Topic = new Topic(this.GetParamInt(this.cboTopic.UniqueID));
+                    post.SubTopic = new SubTopic(this.GetParamInt(this.cboSubTopics.UniqueID));
                     post.User = this.WebProfile.User;
-
+                    
                     PostLogic postLogic = new PostLogic();
-                    if (postLogic.InsertPost(post))
+                    post = postLogic.InsertPost(post); 
+                    if (post.OperationResult)                    
                     {
-                        this.operationResult.InnerHtml = this.MessageSuccess("Elemento guardado correctamente.");
+                        //Si el post se guardo, seteo una variable de sesion para y redirigo a la pagina de edición del post.
+                        //Con la variable de sesion, muestro el mensaje de OK en la pantalla de edicion
+                        Session[SessionKeys.PostSaveSuccess] = true;
+                        Response.Redirect("~/pagesPost/EditPost.aspx?postId=" + post.PostId, false);                        
                     }
                     else
                     {
-                        this.operationResult.InnerHtml = this.MessageDanger("Ocurrio un error guardando el nuevo item.");
+                        this.operationResult.InnerHtml = this.MessageDanger(post.OperationMessage);
                     }
                 }
                 else
@@ -66,11 +69,8 @@ namespace Wiki.Web.pagesPost
 
         private bool ValidateImputs()
         {
+            //ToDo: Agregar validaciones
             return true;
-        }
-
-        protected void btnBack_Click(object sender, EventArgs e)
-        {
         }
 
     }

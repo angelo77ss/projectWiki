@@ -9,7 +9,7 @@
     <aside class="right-side">
         <section class="content-header">
             <h1>
-                Agregar post! <small>bien ahi!!!</small>
+                Detalle del post! <small>sera lo que buscas?</small>
             </h1>
             <ol class="breadcrumb">
                 <li><a href="#"><i class="fa fa-dashboard"></i>Home</a></li>
@@ -28,9 +28,9 @@
                                     <h2 runat="server" id="lblTitle">
                                     </h2>
                                 </div>
-                            </div>                          
+                            </div>
                             <div class="row">
-                                <div class="col-xs-6">
+                                <div class="col-xs-4">
                                     <h4>
                                         Tema: <small runat="server" id="lblTopic"></small>
                                     </h4>
@@ -41,24 +41,26 @@
                                         Nivel: <small runat="server" id="lblLevel"></small>
                                     </h4>
                                 </div>
-                                <div class="col-xs-46">
-                                    fav
+                                <div class="col-xs-8">
+                                    <div class="row">
+                                        <div class="col-xs-12">
+                                            <div class="pull-right">
+                                                <a runat="server" id="btnFavorite" class="btn btn-warning"><i class="fa fa-fw fa-heart"></i>Favorito!</a>
+                                                <a runat="server" id="btnEdit" class="btn btn-success"><i class="fa fa-fw fa-pencil"></i>Editar</a>
+                                                <a runat="server" id="btnDelete" class="btn btn-danger"><i class="fa fa-fw fa-trash-o"></i>Eliminar</a>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-xs-12">
-                                    <span class="label label-info">Tags asdasdsad</span>
-                                    <span class="label label-info">Tags asd</span>
-                                    <span class="label label-info">Tags322tgfg</span>
-                                    <span class="label label-info">Tags322tgfg</span>
-                                    <span class="label label-info">Tags322tgfg</span>
-                                    <span class="label label-info">Tags asdasd</span>
-                                    <span class="label label-info">Tags 234234</span>
-                                    <span class="label label-info">Tags322tgfg</span>
-                                    <span class="label label-info">Tags asda</span>
-                                    <span class="label label-info">Tags asda</span>
-                                    <span class="label label-info">Tags322tgfg</span>
-                                    <span class="label label-info">Tags322tgfg</span>
+                                    <span class="label label-info">Tags asdasdsad</span> <span class="label label-info">Tags asd</span>
+                                    <span class="label label-info">Tags322tgfg</span> <span class="label label-info">Tags322tgfg</span>
+                                    <span class="label label-info">Tags322tgfg</span> <span class="label label-info">Tags asdasd</span>
+                                    <span class="label label-info">Tags 234234</span> <span class="label label-info">Tags322tgfg</span>
+                                    <span class="label label-info">Tags asda</span> <span class="label label-info">Tags asda</span> <span
+                                        class="label label-info">Tags322tgfg</span> <span class="label label-info">Tags322tgfg</span>
                                 </div>
                             </div>
                             <hr />
@@ -150,6 +152,7 @@
                                     </ul>
                                 </div>
                             </div>
+                            <asp:HiddenField runat="server" ID="encryptedKey" />
                             </form>
                         </div>
                     </div>
